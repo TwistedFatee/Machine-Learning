@@ -1,1 +1,5 @@
 http://archive.ics.uci.edu/ml/machine-learning-databases/breast-cancer-wisconsin/breast-cancer-wisconsin.data
+
+Data description:
+There are 699 samples, 11 columns of data, the first column is used for the ID of the search, the last 9 columns are the medical features related to the tumor, and the last column is the value of the tumor type.
+Contains 16 missing values, expressed by ?
